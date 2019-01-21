@@ -13,12 +13,6 @@
   </url>
   
   <url>
-    <loc>https://hellowordcount.github.io/personal-site/</loc>
-    <lastmod>2019-01-20T22:00:11+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://hellowordcount.github.io/personal-site/posts/</loc>
     <lastmod>2019-01-20T22:00:11+08:00</lastmod>
     <priority>0</priority>
@@ -26,6 +20,12 @@
   
   <url>
     <loc>https://hellowordcount.github.io/personal-site/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hellowordcount.github.io/personal-site/</loc>
+    <lastmod>2019-01-20T22:00:11+08:00</lastmod>
     <priority>0</priority>
   </url>
   
